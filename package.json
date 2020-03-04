@@ -1,0 +1,19 @@
+{
+    "name": "desafio-platzi-video",
+    "version": "1.0.0",
+    "description": "Desafio Platzi Video Curso Grid LayOut",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "nodemon": "nodemon server.js -e js,hbs,html,css"
+    },
+    "author": "Juan Delgado",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "frameguard": "^3.1.0",
+        "html": "^1.0.0",
+        "nodemon": "^2.0.2",
+        "path": "^0.12.7"
+    }
+}
